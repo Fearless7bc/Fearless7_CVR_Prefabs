@@ -9,4 +9,4 @@ This is where I will put prefabs for CVR.
 
 ---
 **Disclaimer**
-> Use of this Unity Script is done so at the user's own risk and the creator cannot be held responsible for any issues arising from its use.
+> Use of these Unity Scripts is done so at the user's own risk and the creator cannot be held responsible for any issues arising from its use.
