@@ -14,3 +14,4 @@ It will track the player while firing a particle at them.
 - It will confirm if it has line of sight (LOS) to the player, using the raycast.
 - It will only track players within it's max range too, by default it is 15.
 - It will change one synced parameter, the first one in the spawnable script, to the value 1 when tracking a player. It will be 0 when not tracking a player.
+- There is an object that will attach to the prop spawner, this is to force it to sync the position of the target object.
