@@ -8,9 +8,7 @@ function Start()
     Spawnable = BoundObjects.Spawnable -- The spawnable script so we can change the sync values
     Target = BoundObjects.Target -- The target we set to the position of the tracked player, to have the turret aim constrained to
     RaycastChecker = BoundObjects.RaycastChecker.transform -- The raycast object we use to detect if we have Line of Sight (LOS) to the tracked player
-    if IsSpawnedByMe == true then -- Used to make the "Target" object synced, we have to attach something to the prop spawner. This is to ONLY attach to the prop spawner
-        Animator.SetBool("Sync", true)
-    end
+    SyncAttach = BoundObjects.SyncAttach:CustomTrigger() -- Used to make the "Target" object synced, we have to attach something to the prop spawner. This is to ONLY attach to the prop spawner
     MaxAngle = 40 -- Max angle left or right of the Viewpoint it will detect players
     MaxRange = 15 -- The max range it will target a player
 end
