@@ -1,3 +1,5 @@
+-- By Fearless7
+-- This lua script will track players in front of an object. While also using a raycast to LOS check.
 UnityEngine = require("UnityEngine")
 CVR = require("CVR")
 -- Start is called before the first frame update
