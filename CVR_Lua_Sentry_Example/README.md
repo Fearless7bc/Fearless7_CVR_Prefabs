@@ -12,7 +12,7 @@ It will track the player while firing a particle at them.
 - It will only track players within it's max range too, by default it is 15.
 - It will change one synced parameter, the first one in the spawnable script, to the value 1 when tracking a player. It will be 0 when not tracking a player.
 - There is an object that will attach to the prop spawner, this is to force it to sync the position of the target object.
-- There is a bool in the Start function, `TargetedPlayer`, change to true to target the prop spawner.
+- There is a bool in the Start function, `TargetedSpawner`, change to true to target the prop spawner as well as remote players.
 
 ## Requirements
 You need to have the CVR experimental CCK. It can be found in the official ABI Discord.
