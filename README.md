@@ -1,6 +1,7 @@
 # Fearless7 ChilloutVR Prefabs
 
 This is where I will put prefabs for CVR.
+Please post any issues here for me to fix.
 
 ---
 ## Prefabs
