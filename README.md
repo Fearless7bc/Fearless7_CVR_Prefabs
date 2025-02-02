@@ -6,7 +6,7 @@ This is where I will put prefabs for CVR.
 ## Prefabs
 |      Name    |Type|                                          README                                                            |Download|                            Description                                 |
 |--------------|----|------------------------------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------|
-|CVR_Lua_Sentry|Prop|[README.md](CVR_Lua_Sentry_Example/README.md)|[![Download Latest Example](.Resources/DownloadButtonEnabled.svg)](https://github.com/Fearless7bc/Fearless7_CVR_Prefabs/raw/main/CVR_Lua_Sentry_Example/CVR_Lua_Sentry_Example.unitypackage)|A sentry that will track and target players within a view angle and LOS.|
+|CVR_Lua_Sentry|Prop|[README.md](CVR_Lua_Sentry_Example/README.md)|[![Download Latest Example](.Resources/DownloadButtonEnabled.svg)](https://github.com/Fearless7bc/Fearless7_CVR_Prefabs/blob/main/CVR_Lua_Sentry_Example/CVR_Lua_Sentry_Example_2.unitypackage)|A sentry that will track and target players within a view angle and LOS.|
 
 ---
 **Disclaimer**
